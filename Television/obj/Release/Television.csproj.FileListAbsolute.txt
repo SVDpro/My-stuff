@@ -1,0 +1,25 @@
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Release\Television.exe.config
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Release\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Release\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Release\Television.csproj.ResolveComReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Release\Television.exe.config
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.csproj.ResolveComReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Release\Television.exe
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Release\Television.pdb
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Release\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Release\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.csprojResolveAssemblyReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.TelevisionSet.resources
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.Properties.Resources.resources
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.csproj.GenerateResource.Cache
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.exe
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.pdb
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Release\Television.RemoteControl.resources
+F:\Daniel Chumak\Курсачи\КР\Television\Television\bin\Release\Television.exe.config
+F:\Daniel Chumak\Курсачи\КР\Television\Television\obj\Release\Interop.WMPLib.dll
+F:\Daniel Chumak\Курсачи\КР\Television\Television\obj\Release\AxInterop.WMPLib.dll
+F:\Daniel Chumak\Курсачи\КР\Television\Television\obj\Release\Television.csproj.ResolveComReference.cache
+F:\Daniel Chumak\Курсачи\КР\Television\Television\obj\Release\Television.exe
+F:\Daniel Chumak\Курсачи\КР\Television\Television\obj\Release\Television.pdb

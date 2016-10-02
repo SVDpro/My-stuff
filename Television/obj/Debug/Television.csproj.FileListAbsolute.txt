@@ -1,0 +1,30 @@
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Debug\Television.exe.config
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Debug\Television.exe
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Debug\Television.pdb
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.Properties.Resources.resources
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.csproj.GenerateResource.Cache
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.exe
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.pdb
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Debug\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.csproj.ResolveComReference.cache
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.RemoteControlForm.resources
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.TelevisionSet.resources
+C:\Users\T-800\Desktop\Daniel Chumak\Программирование\C#\Второй курс\КР\Television\Television\obj\Debug\Television.csprojResolveAssemblyReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Debug\Television.exe.config
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.csproj.ResolveComReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.exe
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.pdb
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Debug\Television.exe
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Debug\Television.pdb
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Debug\Interop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.csprojResolveAssemblyReference.cache
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.TelevisionSet.resources
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.Properties.Resources.resources
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.csproj.GenerateResource.Cache
+C:\Users\T-800\Desktop\КР\Television\Television\obj\Debug\Television.RemoteControl.resources

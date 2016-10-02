@@ -1,0 +1,15 @@
+﻿Names:
+Jokes'n'Pranks GoPro TrailerTune Music SciencePlanet Dancing TVShow MoviePlanet Military Motocycles
+Numbers:
+0 1 2 3 4 5 6 7 8 9
+URLs:
+\Resources\videos\annoy.avi
+\Resources\videos\bicycle.avi
+\Resources\videos\star wars trailer.avi
+\Resources\videos\blood.avi
+\Resources\videos\chemistry.avi
+\Resources\videos\dance france.avi
+\Resources\videos\rap.avi
+\Resources\videos\step up.avi
+\Resources\videos\training.avi
+\Resources\videos\bikes.avi
